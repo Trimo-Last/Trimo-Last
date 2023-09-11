@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Trimo-Last&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Trimo-Last&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
